@@ -1,6 +1,22 @@
 # ubuntu-service-detect
 
+[![npm version](https://img.shields.io/badge/npm-v1.0.0-blue.svg)](https://www.npmjs.com/package/ubuntu-service-detect)
+[![Docs](https://img.shields.io/badge/docs-GitHub_Pages-sky.svg)](https://keshavsoft.github.io/ubuntu-service-docs/detect/)
+[![Suite](https://img.shields.io/badge/suite-ubuntu--service-orange.svg)](https://keshavsoft.github.io/ubuntu-service-docs/)
+[![GitHub](https://img.shields.io/badge/github-keshavsoft%2Fubuntu--service--detect-181717.svg)](https://github.com/keshavsoft/ubuntu-service-detect)
+
 > Context-aware detection of systemd services matching the current or specified working directory on an Ubuntu VPS.
+
+---
+
+## 🌐 Documentation & Links
+
+- **Dedicated Documentation:** [https://keshavsoft.github.io/ubuntu-service-docs/detect/](https://keshavsoft.github.io/ubuntu-service-docs/detect/)
+- **Full Suite Hub:** [https://keshavsoft.github.io/ubuntu-service-docs/](https://keshavsoft.github.io/ubuntu-service-docs/)
+- **npm Package:** [https://www.npmjs.com/package/ubuntu-service-detect](https://www.npmjs.com/package/ubuntu-service-detect)
+- **Sister Packages:**
+  - `ubuntu-service`: [npm](https://www.npmjs.com/package/ubuntu-service) | [docs](https://keshavsoft.github.io/ubuntu-service-docs/service/)
+  - `ubuntu-service-restart`: [npm](https://www.npmjs.com/package/ubuntu-service-restart) | [docs](https://keshavsoft.github.io/ubuntu-service-docs/restart/)
 
 ---
 
