@@ -1,0 +1,30 @@
+{
+  "name": "ubuntu-service-detect",
+  "version": "1.0.0",
+  "description": "Context-aware detection of systemd services matching the current or specified working directory.",
+  "type": "module",
+  "main": "./src/index.js",
+  "exports": {
+    ".": "./src/index.js",
+    "./v1": "./src/v1/index.js"
+  },
+  "files": [
+    "src",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "ubuntu",
+    "systemd",
+    "detect",
+    "vps",
+    "working-directory"
+  ],
+  "author": "KeshavSoft",
+  "license": "ISC",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
